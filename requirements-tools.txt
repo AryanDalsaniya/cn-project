@@ -1,0 +1,2 @@
+# Needed only for regenerating figures, not for the C++ programs or integration tests.
+matplotlib>=3.6,<4
